@@ -6,3 +6,5 @@ You can adjust the length of time before it switches pictures by adjusting the M
 the program will pick a random time between the two values and switch the picture.
 
 There are plenty of programs that do this same thing with more features, but I mostly just wanted to try to figure it out myself and have fun with a little project to kill some time. :)
+
+Works great if you run this program on system startup.
